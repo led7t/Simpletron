@@ -1,6 +1,6 @@
 # Simpletron
 //Laura E Dean
-//Spring 2018
+//Spring 2017
 //Version 3.0
 
 
@@ -18,7 +18,7 @@
 //Memory dump after the completion of a program
 
 
-//Upates from version 2 to version 3:
+//Updates from version 2 to version 3:
 //New operations REMAINDER, EXPONENTIATION, and NEWLINE added.
 
 
